@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+
+
 body{
   background: #2980b9;
   background: linear-gradient(to right, #2c3e50, #2980b9);
@@ -21,3 +25,16 @@ img{
    padding: 1rem;
 }
 
+
+.file{
+  width: 100vh;
+  height: 100% !important;
+}
+
+.book_loaded{
+  display: block;
+  line-height: 190%;
+  font-weight: bold;
+  
+  font-family: 'Julius Sans One', sans-serif;   
+}
